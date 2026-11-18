@@ -19,4 +19,4 @@ javac -encoding UTF-8 -d build src/Main.java src/Node.java
 
 The entry point expects `src/test.txt` relative to your working directory. Graph construction is unfinished and can create duplicate nodes. `AC3`, `MRV`, and `LCV` are placeholders for removing inconsistent colors and choosing which vertex and color to try next. The prototype has no coloring output.
 
-[`CSPZiyan1`](https://github.com/jackguo2016/CSPZiyan1) documents the same prototype. For the version that attempts to solve the graph and includes test files, see [`CS6511_AI_Project2`](https://github.com/jackguo2016/CS6511_AI_Project2).
+[`CSPZiyan1`](https://github.com/jackguo2016/CSPZiyan1) documents the same prototype. For the version that attempts to solve the graph and includes test files, see [`java-graph-coloring-csp`](https://github.com/jackguo2016/java-graph-coloring-csp).
